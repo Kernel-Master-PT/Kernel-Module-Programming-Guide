@@ -1,4 +1,5 @@
 obj-m += sleep.o
+obj-m += completions.o
 
 # set to the absolute pathname of the current working directory
 # (after all -C options are processed, if any)
