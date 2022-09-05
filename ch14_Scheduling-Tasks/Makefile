@@ -1,4 +1,5 @@
 obj-m += example_tasklet.o
+obj-m += sched.o
 
 # set to the absolute pathname of the current working directory
 # (after all -C options are processed, if any)
